@@ -1,0 +1,83 @@
+/*responsive starts here*/
+@media (max-width: 1200px){
+	
+	.btn{padding: 5px 12px;letter-spacing: 1px;}
+	.nav>li>a{padding:15px 10px;}
+	.searchbar .form-control{width: 160px;}	
+	.searchbar .btn,.footer .btn{display: none;}
+	
+	.block{background-size: cover !important;font-size: 13px;}
+	.block .info{display: inline-block; height: 120px; width: 120px; }
+	.block .overlay{padding: 15px;}
+	.block .info h3 {margin: 40px 0 5px 0;font: normal 23px/23px 'Old Standard TT', serif;}
+	.block .overlay p {margin-bottom: 10px;}
+	.block .overlay h4{font:italic 17px/15px 'Old Standard TT', serif;}
+	#progressbar{display: none;}
+.mrginR15{ margin-right:15px;}
+.mrginL15{ margin-left:15px;}
+}
+@media (max-width: 991px){
+	.nav>li>a{padding:15px 7px; font-size: 12px;}
+	.searchbar .form-control {width: 130px;}
+	.navbar-inverse .navbar-brand{width: 150px;}
+	.navbar-inverse .navbar-brand img{width: 100%;}
+	.homepage .height-half{height: 25%;}
+	.block .overlay h4{margin: 10px 0;}
+	.mrginR15{ margin-right:0px;}
+.mrginL15{ margin-left:0px;}
+}
+@media (max-width: 767px){
+	.pull-right {
+    float: inherit !important;
+}
+	.form-w3agile input[type="submit"]{ width:100% !important;}
+	.col-xs-offset-3 {
+    margin-left:0 !important;}
+	h2{font-size: 20px; line-height: 20px;}
+	h2.title{font-size: 30px;line-height: 53px;margin-bottom: 20px;}
+	h1{font-size: 30px; line-height: 30px;margin-top: 20px;}
+   .banner_vertcle {margin-top:180px;}
+	.breadcrumb{margin-bottom: 15px;}
+
+	.banner .caption h2{margin-bottom: 5px; font-size:14px;}
+	.banner .caption a.btn{width: 100%; margin-top: 5px;}
+	.nav>li>a {padding: 7px;}
+	.navbar-nav .open .dropdown-menu>li>a {line-height: 15px;}
+	.navbar-nav {margin-top: 0; margin-bottom: 0;}
+	.searchbar {margin-top: 0;margin-bottom: 0;}
+	.searchbar .form-control{width: 100%;}
+
+	.banner .caption p{font: normal 12px/13px 'Titillium Web', serif;}
+	.fullpage {height: auto !important;padding-bottom: 0 ; float: left;}
+	.block .overlay{position: relative;}
+	.navbar-fixed-bottom{position: relative;float: left; width: 100%;}
+
+	.block .info{margin: 20px;}
+	.block .overlay {padding: 25px;}
+	.height-full{float: left;width: 100%;}
+    .footer {overflow: hidden; padding-bottom:10px;}
+	.footer  .pull-left{width: 100%;}
+	.footer  .navbar-form{margin: 0;}
+	.footer .links,	.footer .social{width: 100%; text-align: center;}
+	.footer img{display: table;margin: 20px auto; float:none;}
+	.newsletter .form-control{width: 100%;}
+
+
+	.related-products{margin-bottom: 0;}
+	.inside-page{padding-bottom: 20px;}
+
+	.lookbook .product .info{position: static;width: 100%;padding: 15px 0;}
+	#msform{position: relative;}
+
+
+	.checkout h4,.modal-content h4{margin-top: 20px;}
+	.create-account .form-horizontal{padding: 0;}
+
+	.product-details .btn{padding: 5px 9px;letter-spacing: 0px;}
+.table-responsive > .table > tbody > tr > th{min-width: 300px;
+float: left;}
+.mrginR15{ margin-right:0px;}
+.mrginL15{ margin-left:0px;}
+.media{ min-width:300px;}
+}
+

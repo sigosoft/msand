@@ -1,0 +1,65 @@
+[01-Sep-2018 12:23:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:23:12 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:23:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:23:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:26:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:27:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:27:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[01-Sep-2018 12:27:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[03-Sep-2018 04:06:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT), expecting identifier (T_STRING) in /home/ourworks/public_html/msand/application/controllers/Account.php on line 176
+[04-Sep-2018 08:27:22 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::getPrices_vendor_products() in /home/ourworks/public_html/msand/application/controllers/Account.php on line 644
+[06-Sep-2018 10:39:10 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'db/config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ourworks/public_html/msand/application/views/admin/admin/sales_report.php on line 15
+[06-Sep-2018 10:39:21 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'db/config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/ourworks/public_html/msand/application/views/admin/admin/sales_report.php on line 15
+[15-Sep-2018 11:34:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1010
+[15-Sep-2018 11:34:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1010
+[17-Sep-2018 06:19:06 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1662
+[17-Sep-2018 06:22:55 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1662
+[17-Sep-2018 06:23:28 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1662
+[17-Sep-2018 06:23:44 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1662
+[17-Sep-2018 06:24:20 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1662
+[17-Sep-2018 06:33:01 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1663
+[17-Sep-2018 06:42:44 Etc/GMT] PHP Fatal error:  Call to a member function opening() on a non-object in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1665
+[18-Sep-2018 09:40:19 Etc/GMT] PHP Fatal error:  Call to a member function row() on a non-object in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1631
+[20-Sep-2018 05:05:15 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/ourworks/public_html/msand/application/controllers/Main_admin.php on line 1961
+[09-Oct-2018 05:12:39 Etc/GMT] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/shafeeque/public_html/application/controllers/Main_admin.php on line 1896
+[23-Oct-2018 10:39:40 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:43 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:46 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:47 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:49 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:51 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:52 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:53 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:54 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:56 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:56 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:57 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:39:57 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:40:02 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:40:03 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:40:04 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:23 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:24 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:31 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:33 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:35 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:37 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:39 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:40 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:43 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:44 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:44 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:45 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:46 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:46 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:46 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:48 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:48 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:50 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[23-Oct-2018 10:42:54 Etc/GMT] PHP Fatal error:  Cannot redeclare Account::cash_report() in /home/shafeeque/public_html/application/controllers/Account.php on line 1709
+[30-Oct-2018 10:11:30 Etc/GMT] PHP Fatal error:  Class 'env' not found in /home/shafeeque/public_html/application/views/admin/admin/dashboard.php on line 83
